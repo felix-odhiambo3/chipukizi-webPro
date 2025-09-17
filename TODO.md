@@ -1,0 +1,2 @@
+- [x] Fix login page 400 BAD REQUEST error by changing 'username' to 'email' in Login.jsx
+- [x] Recreate admin seed user (admin@example.com / password123)

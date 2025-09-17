@@ -1,0 +1,18 @@
+# Node modules
+chipukizi_frontend/node_modules/
+chipukizi_frontend/dist/
+chipukizi_frontend/build/
+
+# Python venv & caches
+chipukizi_backend/venv/
+chipukizi_backend/__pycache__/
+chipukizi_backend/migrations/
+*.pyc
+
+# Environment variables
+*.env
+.env
+
+# Logs
+*.log
+logs/
